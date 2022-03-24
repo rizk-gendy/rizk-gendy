@@ -1,5 +1,5 @@
+![Rizk Gendy (2)](https://user-images.githubusercontent.com/80922036/159897111-d9466c1d-d0bf-4d5e-ae98-c0b9bcf37e25.png)
 
-![Rizk Gendy (1)](https://user-images.githubusercontent.com/80922036/159894705-33e0b2eb-bc2e-4434-bfdc-5a8e64ea4f67.png)
 
 <br/>
 

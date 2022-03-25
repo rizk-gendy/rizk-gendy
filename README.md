@@ -30,13 +30,13 @@
 </p>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizk-gendy)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizk-gendy&show_icons=true&theme=radical)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizk-gendy)](https://git.io/streak-stats)  
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-gendy&layout=compact)](https://github.com/rizk-gendy/github-readme-stats)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizk-gendy&show_icons=true&theme=radical)
 
 

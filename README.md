@@ -37,6 +37,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-gendy&layout=compact)](https://github.com/rizk-gendy/github-readme-stats)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizk-gendy&show_icons=true&theme=radical)
 
 
